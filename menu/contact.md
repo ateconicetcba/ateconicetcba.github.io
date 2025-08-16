@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Contact
+title: Contacto
 permalink: /contact
 ---
 
-Podés contactarnos a través del [correo](ate.conicet.cba.g,ail.com) o [por nuestro instagram](https://www.instagram.com/ate.conicet.cba/)
+Podés contactarnos a través del correo *ate.conicet.cba(arroba)gmail.com* o [por nuestro instagram](https://www.instagram.com/ate.conicet.cba/)
