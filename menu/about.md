@@ -6,4 +6,4 @@ permalink: /about
 
 Esta el la página de la Junta Interna y Cuerpo de Delegadxs de ATE CONICET Córdoba.   
 
-![](/../main/assets/img/Badera.png)
+![](/assets/img/Badera.png)
