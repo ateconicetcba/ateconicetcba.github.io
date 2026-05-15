@@ -5,6 +5,7 @@ author: "Junta Interna ATE-CONICET Córdoba"
 categories: journal
 tags: [documentation,sample]
 image: mesa_2026_05.jpg
+---
 
 La reunión de Mesa de Becarixs del 08/05/26 dejó al descubierto un escenario de
 profundización del ajuste sobre el sistema científico y tecnológico, particularmente sobre el
