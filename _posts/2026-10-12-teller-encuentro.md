@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Conclusiones: "Por una ciencia y técnica feminista"
-subtitle: "39° Encuentro Plurinacional de Mujeres, Lesbianas, Travestis, Trans, Bisexuales, Intersex y No Binaries"
 author: "Junta Interna ATE- CONICET Córdoba"
 categories: journal
 tags: [documentation,sample]
