@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Conclusiones: "Por una ciencia y técnica feminista"
+title: "Conclusiones: Por una ciencia y técnica feminista"
 author: "Junta Interna ATE- CONICET Córdoba"
 categories: journal
 tags: [documentation,sample]
